@@ -1,0 +1,2 @@
+- use token2020 to do custody of solana
+  - https://github.com/joncinque read code from him

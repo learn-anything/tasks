@@ -1,0 +1,7 @@
+- possible AI tasks
+  - take a query and return structured JSON answer.
+  - take a task as query and do actions (i.e. with [Lemon Agent](https://github.com/felixbrock/lemon-agent))
+  - add proper deploy instructions for existing rust http service
+  - add proper library publishing step for the TS `subtasks` task
+- check [LangChain.js](https://github.com/hwchase17/langchainjs) to chain prompts + do calls to OpenAI & other LLMs in ts
+- use [LangChain](https://github.com/hwchase17/langchain) or [MiniChain](https://github.com/srush/MiniChain) with python

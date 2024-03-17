@@ -1,0 +1,26 @@
+{
+  "name": "@kuskusapp/ai",
+  "module": "dist/index.js",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "version": "0.1.24",
+  "prettier": {
+    "semi": false
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist/index.js",
+    "dist/index.d.ts"
+  ],
+  "dependencies": {
+    "mdast-util-from-markdown": "^2.0.0",
+    "mdast-util-to-markdown": "^2.1.0",
+    "mdast-util-to-string": "^4.0.0",
+    "tsup": "^8.0.2"
+  }
+}

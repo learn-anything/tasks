@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background: white;
+}
+@media (prefers-color-scheme: dark) {
+  html {
+    background: rgb(23,23,23)
+  }
+}
