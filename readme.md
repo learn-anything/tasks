@@ -1,6 +1,6 @@
 # Tasks
 
-> Tasks done exposed as library functions or HTTP endpoints
+> Tasks exposed as HTTP endpoints
 
 Goal of the repo is to serve as a place to build out tasks that are in use by [Learn Anything](https://github.com/learn-anything/learn-anything.xyz) and generalise it to be used by community at large.
 
